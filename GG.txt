@@ -1,2 +1,2 @@
-alex.rose@skiamazing.com : Siam.com
-stephanie.price@ulmerso.com :Siam.com
+alex.rose@skiamazing.com:Siam.com
+stephanie.price@ulmerso.com:Siam.com
